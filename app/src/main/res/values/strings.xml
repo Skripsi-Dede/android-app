@@ -1,0 +1,72 @@
+<resources>
+
+    <!--    Default String-->
+    <string name="app_name">GoOutfit</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--    String for Button-->
+    <string name="finish">Finish</string>
+    <string name="next">Next</string>
+
+    <!--    String for Bottom Navigation-->
+    <string name="nav_bottom_home">Home</string>
+    <string name="nav_bottom_history">History</string>
+    <string name="nav_bottom_settings">Settings</string>
+
+    <!--    String for Onboarding Screen-->
+    <string name="onboarding_1">Start your day with fresh outfit ideas delivered straight to your feed</string>
+    <string name="onboarding_2">Discover new styles, trends, and accessories to elevate your fashion game.</string>
+    <string name="onboarding_3">Let our app be your personal stylist and express your unique personality through fashion.</string>
+
+    <!--    String for Authentication-->
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="sigunp">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="username_hint">Enter your username</string>
+    <string name="email_hint">Enter your email</string>
+    <string name="password_hint">Enter your password</string>
+    <string name="password">Password</string>
+    <string name="login_havent_account">Haven\'t created an account yet ? <font color="#0A3150"><b>Register</b></font></string>
+    <string name="register_have_account">Already have an account ? <font color="#0A3150"><b>Login</b></font></string>
+    <string name="title_activity_login">LoginActivity</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="card_home_header_text_1">Discover Your Perfect Look</string>
+    <string name="card_home_header_text_2">Unlock the Ideal Outfit for Every Occasion!</string>
+    <string name="find_outfit">Find Outfit</string>
+    <string name="home_rec_tops">Recommendation Topwears For You</string>
+    <string name="home_rec_bottoms">Recommendation Bottomwears For You</string>
+    <string name="home_rec_footwears">Recommendation Footwears For You</string>
+    <string name="cards_img">cards_img</string>
+    <string name="select_an_answer">Select an answer</string>
+    <string name="find_your_outfit">Find Your Outfit</string>
+    <string name="question_counter">Question 1 / 4</string>
+    <string name="back">Back</string>
+    <string name="question_1">What gender are you ?</string>
+    <string name="question1_answer1">Male</string>
+    <string name="question1_answer2">Female</string>
+    <string name="question_2">What\'s the weather like ?</string>
+    <string name="question2_answer1">Hot</string>
+    <string name="question2_answer2">Rain</string>
+    <string name="question_3">What kind of event do you want to attend?</string>
+    <string name="question3_answer1">Formal</string>
+    <string name="question3_answer2">Informal</string>
+    <string name="question_4">What style of outfit do you want?</string>
+    <string name="question4_answer1">Casual</string>
+    <string name="question4_answer2">Streetstyle</string>
+    <string name="question4_answer3">Young</string>
+    <string name="question4_answer4">Formal</string>
+    <string name="number_of_questions">Question %d / 4</string>
+    <string name="back_question">Back</string>
+    <string name="next_question">Next</string>
+    <string name="finish_question">Finish</string>
+    <string name="rec_string_tittle">Here\'s Your Recommendation</string>
+</resources>

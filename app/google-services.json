@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "33830077194",
+    "firebase_url": "https://skripsi-74686-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "skripsi-74686",
+    "storage_bucket": "skripsi-74686.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33830077194:android:7741f567587f3a84d130f3",
+        "android_client_info": {
+          "package_name": "com.example.gooutfit_android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf-rJOBVOsv0dpZ81kae6nabHthKCmpJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
